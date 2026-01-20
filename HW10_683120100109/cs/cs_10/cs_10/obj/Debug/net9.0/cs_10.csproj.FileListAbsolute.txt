@@ -1,0 +1,14 @@
+C:\Ck\Sasitorn_OOP\Homework\HW10_683120100124\cs\cs_10\cs_10\obj\Debug\net9.0\cs_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ck\Sasitorn_OOP\Homework\HW10_683120100124\cs\cs_10\cs_10\obj\Debug\net9.0\cs_10.AssemblyInfoInputs.cache
+C:\Ck\Sasitorn_OOP\Homework\HW10_683120100124\cs\cs_10\cs_10\obj\Debug\net9.0\cs_10.AssemblyInfo.cs
+C:\Ck\Sasitorn_OOP\Homework\HW10_683120100124\cs\cs_10\cs_10\obj\Debug\net9.0\cs_10.csproj.CoreCompileInputs.cache
+C:\Ck\Sasitorn_OOP\Homework\HW10_683120100124\cs\cs_10\cs_10\bin\Debug\net9.0\cs_10.exe
+C:\Ck\Sasitorn_OOP\Homework\HW10_683120100124\cs\cs_10\cs_10\bin\Debug\net9.0\cs_10.deps.json
+C:\Ck\Sasitorn_OOP\Homework\HW10_683120100124\cs\cs_10\cs_10\bin\Debug\net9.0\cs_10.runtimeconfig.json
+C:\Ck\Sasitorn_OOP\Homework\HW10_683120100124\cs\cs_10\cs_10\bin\Debug\net9.0\cs_10.dll
+C:\Ck\Sasitorn_OOP\Homework\HW10_683120100124\cs\cs_10\cs_10\bin\Debug\net9.0\cs_10.pdb
+C:\Ck\Sasitorn_OOP\Homework\HW10_683120100124\cs\cs_10\cs_10\obj\Debug\net9.0\cs_10.dll
+C:\Ck\Sasitorn_OOP\Homework\HW10_683120100124\cs\cs_10\cs_10\obj\Debug\net9.0\refint\cs_10.dll
+C:\Ck\Sasitorn_OOP\Homework\HW10_683120100124\cs\cs_10\cs_10\obj\Debug\net9.0\cs_10.pdb
+C:\Ck\Sasitorn_OOP\Homework\HW10_683120100124\cs\cs_10\cs_10\obj\Debug\net9.0\cs_10.genruntimeconfig.cache
+C:\Ck\Sasitorn_OOP\Homework\HW10_683120100124\cs\cs_10\cs_10\obj\Debug\net9.0\ref\cs_10.dll
